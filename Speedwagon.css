@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(43, 43, 74);
+}
+header h1,p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(240, 234, 214);
+}
+header{
+    background-color: rgb(61, 61, 107);
+    padding: 20px;
+    border-radius: 20px;
+}
+nav{
+    background-color: rgb(26, 26, 46);
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+}
+a{
+    color:rgb(240, 234, 214);
+    margin: 20px;
+}
+footer{
+    background-color: rgb(26, 26, 46);
+    color: rgb(240, 234, 214);
+    padding: 30px;
+    text-align: center;
+}
+section{
+    background-color: rgb(61, 61, 107);
+    padding: 20px;
+    border-radius: 25px;
+}
+section h1,p{
+    color: rgb(240, 234, 214);
+}
+section img{
+    border-radius: 25px;
+}
+.StardustCursaders{
+    *{
+        background-color: rgb(26,10,46);
+        color: rgb(106,31,194);
+    }
+}
+nav a.hover{
+    color: rgb(212,130,10);
+}
+.DiamondIsUnbreakable{
+    *{
+        background-color: rgb(46,90,8);
+        color: rgb(136,204,34);
+    }
+}
+.VentoAureo{
+    *{
+        background-color: rgb(26,8,8);
+        color: rgb(212,130,10);
+    }
+}
